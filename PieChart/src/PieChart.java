@@ -31,7 +31,7 @@ public class PieChar extends JFrame{
 		menuPane.setLayout(new FlowLayout());
 		menuPane.setBackground(Color.PINK);
 		c.add(BorderLayout.NORTH, menuPane);
-		String[] names = {"¼ö¿µ", "½ºÅ²½ºÄí¹ö", "¼ö»ó½ºÅ°"};
+		String[] names = {"ìˆ˜ì˜", "ìŠ¤í‚¨ìŠ¤ì¿ ë²„", "ìˆ˜ìƒìŠ¤í‚¤"};
 		
 		MyActionListener l = new MyActionListener();
 		
